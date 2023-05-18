@@ -35,7 +35,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
+      ApiHost: "https://hack5g.com"
       ApiKey: "khiemdeptrailaso1"
       NodeID1: 1
       NodeType: V2ray 
@@ -73,7 +73,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
+      ApiHost: "https://hack5g.com"
       ApiKey: "khiemdeptrailaso1"
       NodeID2: 1
       NodeType: V2ray 
