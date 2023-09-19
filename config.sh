@@ -35,8 +35,8 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://go.vu4g.com"
-      ApiKey: "1122334455667788"
+      ApiHost: "https://id.loadip.com"
+      ApiKey: "loadiploadiploadiploadip"
       NodeID1: 1
       NodeType: V2ray 
       Timeout: 30 
@@ -73,8 +73,8 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://go.vu4g.com"
-      ApiKey: "1122334455667788"
+      ApiHost: "https://id.loadip.com"
+      ApiKey: "loadiploadiploadiploadip"
       NodeID2: 1
       NodeType: V2ray 
       Timeout: 30 
