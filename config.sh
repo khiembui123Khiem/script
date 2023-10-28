@@ -35,8 +35,8 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
-      ApiKey: "khiemdeptrailaso1"
+      ApiHost: "https://id.loadip.com"
+      ApiKey: "loadiploadiploadiploadip"
       NodeID1: 1
       NodeType: V2ray 
       Timeout: 30 
@@ -73,8 +73,8 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://panel.shopvpn4g.vn"
-      ApiKey: "khiemdeptrailaso1"
+      ApiHost: "https://id.loadip.com"
+      ApiKey: "loadiploadiploadiploadip"
       NodeID2: 1
       NodeType: V2ray 
       Timeout: 30 
